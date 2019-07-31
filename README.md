@@ -19,9 +19,13 @@ pat甲级的题目重新刷一遍，记录一下踩的坑和收获
 
 ## 模拟题
 
+## 动态规划
+- 1007 Maximum Subsequence Sum (25)
 
 ## 其他
 - 1001 A+B Format (20)
 - 1002 A+B for Polynomials (25)
 - 1005 Spell It Right (20)
 - 1006 Sign In and Sign Out (25)
+- 1008 Elevator (20)
+- 1009 Product of Polynomials (25)
