@@ -3,25 +3,31 @@
 
 1.pat甲级的题目重新刷一遍，记录一下经验教训。
 2.对题目做个分类，方便进行针对性练习。
+## 图
+- ### 连通分量
+- 1013 Battle Over Cities (25)
 
-## 最短路径(Dijkstra及其常规变型)
+### 最短路径(Dijkstra及其常规变型)
 - 1003 Emergency (25)
 
 ## 树（遍历：前、中、后序，层次）
 - 1004 Counting Leaves (30)
 
-## 并查集
+### 并查集
 - 1107 Social Clusters (30)
 - 1118 Birds in Forest (25)
 
-## 贪心
+### 贪心
 - 1070 Mooncake (25)
 - 1033 To Fill or Not to Fill (25)
 
-## 模拟题
+### 模拟题
 
-## 动态规划
+### 动态规划
 - 1007 Maximum Subsequence Sum (25)
+
+### 排序题
+- 1012 The Best Rank (25)
 
 ## 其他
 - 1001 A+B Format (20)
@@ -30,3 +36,5 @@
 - 1006 Sign In and Sign Out (25)
 - 1008 Elevator (20)
 - 1009 Product of Polynomials (25)
+- 1010 Radix (25)
+- 1011 World Cup Betting (20)
