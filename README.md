@@ -14,6 +14,7 @@
 
 ## 树（遍历：前、中、后序，层次）
 - 1004 Counting Leaves (30)
+- 1020 Tree Traversals (25)
 
 ### 并查集
 - 1107 Social Clusters (30)
@@ -24,7 +25,7 @@
 - 1033 To Fill or Not to Fill (25)
 
 ## 模拟题
-
+- 1014 Waiting in Line (30)
 
 ## 动态规划
 - 1007 Maximum Subsequence Sum (25)
@@ -42,3 +43,4 @@
 - 1009 Product of Polynomials (25)
 - 1010 Radix (25)
 - 1011 World Cup Betting (20)
+- 1015 Reversible Primes (20)
