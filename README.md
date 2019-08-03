@@ -7,6 +7,7 @@
 ## 图
 ### 连通分量
 - 1013 Battle Over Cities (25)
+- 1021 Deepest Root (25)
 
 ### 最短路径(Dijkstra及其常规变型)
 - 1003 Emergency (25)
@@ -44,3 +45,5 @@
 - 1010 Radix (25)
 - 1011 World Cup Betting (20)
 - 1015 Reversible Primes (20)
+- 1019 General Palindromic Number (20)
+- 1023 Have Fun with Numbers (20)
