@@ -47,3 +47,4 @@
 - 1015 Reversible Primes (20)
 - 1019 General Palindromic Number (20)
 - 1023 Have Fun with Numbers (20)
+- 1024 Palindromic Number (25)
