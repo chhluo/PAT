@@ -34,6 +34,8 @@
 
 ## 排序题
 - 1012 The Best Rank (25)
+- 1025 PAT Ranking (25)
+- 1028 List Sorting (25)
 
 ## 其他
 - 1001 A+B Format (20)
@@ -48,3 +50,4 @@
 - 1019 General Palindromic Number (20)
 - 1023 Have Fun with Numbers (20)
 - 1024 Palindromic Number (25)
+- 1027 Colors in Mars (20)
