@@ -32,7 +32,7 @@
 - 1007 Maximum Subsequence Sum (25)
 
 ## 查找
-- 1022 Digital Library (30) *
+- 1022 Digital Library (30) * //auto it 可以代替 map <string, int>::iterator it
 - 1149 Dangerous Goods Packaging (25)
 
 ## 排序题
