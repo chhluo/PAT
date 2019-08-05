@@ -42,6 +42,7 @@
 - 1012 The Best Rank (25)
 - 1025 PAT Ranking (25)
 - 1028 List Sorting (25)
+- 1036 Boys vs Girls (25)
 
 ## 链表题
 - 1032 Sharing (25)
