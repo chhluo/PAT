@@ -23,7 +23,7 @@
 
 ## 贪心
 - 1070 Mooncake (25)
-- 1033 To Fill or Not to Fill (25)
+- 1033 To Fill or Not to Fill (25) *
 
 ## 模拟题
 - 1014 Waiting in Line (30)
@@ -31,6 +31,9 @@
 ## 动态规划
 - 1007 Maximum Subsequence Sum (25)
 
+## 查找
+- 1022 Digital Library (30) *
+- 1149 Dangerous Goods Packaging (25)
 
 ## 排序题
 - 1012 The Best Rank (25)
@@ -44,7 +47,7 @@
 - 1006 Sign In and Sign Out (25)
 - 1008 Elevator (20)
 - 1009 Product of Polynomials (25)
-- 1010 Radix (25)
+- 1010 Radix (25) *
 - 1011 World Cup Betting (20)
 - 1015 Reversible Primes (20)
 - 1019 General Palindromic Number (20)
