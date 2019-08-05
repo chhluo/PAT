@@ -12,6 +12,9 @@
 ### 最短路径(Dijkstra及其常规变型)
 - 1003 Emergency (25)
 
+### 深度优先搜索
+- 1018 Public Bike Management (30)
+
 
 ## 树（遍历：前、中、后序，层次）
 - 1004 Counting Leaves (30)
