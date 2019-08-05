@@ -40,6 +40,9 @@
 - 1025 PAT Ranking (25)
 - 1028 List Sorting (25)
 
+## 链表题
+- 1032 Sharing (25)
+
 ## 其他
 - 1001 A+B Format (20)
 - 1002 A+B for Polynomials (25)
@@ -54,3 +57,4 @@
 - 1023 Have Fun with Numbers (20)
 - 1024 Palindromic Number (25)
 - 1027 Colors in Mars (20)
+- 1031 Hello World for U (20)
