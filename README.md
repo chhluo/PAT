@@ -14,7 +14,7 @@
 
 ### 深度优先搜索
 - 1018 Public Bike Management (30)
-
+- 1034 Head of a Gang (30)
 
 ## 树（遍历：前、中、后序，层次）
 - 1004 Counting Leaves (30)
@@ -62,3 +62,4 @@
 - 1024 Palindromic Number (25)
 - 1027 Colors in Mars (20)
 - 1031 Hello World for U (20)
+- 1035 Password (20)
