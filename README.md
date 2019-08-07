@@ -20,6 +20,9 @@
 - 1004 Counting Leaves (30)
 - 1020 Tree Traversals (25)
 
+### 二叉搜素树
+- 1043 Is It a Binary Search Tree (25)
+
 ### 并查集
 - 1107 Social Clusters (30)
 - 1118 Birds in Forest (25)
@@ -67,3 +70,6 @@
 - 1031 Hello World for U (20)
 - 1035 Password (20)
 - 1037 Magic Coupon (25)
+- 1040 Longest Symmetric String (25)
+- 1041 Be Unique (20)
+- 1042 Shuffling Machine (20)
