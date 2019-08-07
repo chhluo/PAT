@@ -38,6 +38,7 @@
 ## 查找
 - 1022 Digital Library (30) * //auto it 可以代替 map <string, int>::iterator it
 - 1039 Course List for Student (25)
+- 1047 Student List for Course (25)
 - 1149 Dangerous Goods Packaging (25)
 
 ## 排序题
