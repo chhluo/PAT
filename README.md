@@ -53,6 +53,13 @@
 ## 链表题
 - 1032 Sharing (25)
 
+## 双指针
+- 1044 Shopping in Mars (25)
+
+## 需要用到数组来统计元素次数的
+- 1048 Find Coins (25)
+- 1050 String Subtraction (20)
+
 ## 其他
 - 1001 A+B Format (20)
 - 1002 A+B for Polynomials (25)
@@ -73,3 +80,5 @@
 - 1040 Longest Symmetric String (25)
 - 1041 Be Unique (20)
 - 1042 Shuffling Machine (20)
+- 1046 Shortest Distance (20)
+- 1048 Find Coins (25)
