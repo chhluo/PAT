@@ -52,6 +52,10 @@
 
 ## 链表题
 - 1032 Sharing (25)
+- 1052 Linked List Sorting (25)
+
+## 栈
+- 1051 Pop Sequence (25)
 
 ## 双指针
 - 1044 Shopping in Mars (25)
