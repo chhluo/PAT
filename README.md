@@ -19,6 +19,7 @@
 ## 树（遍历：前、中、后序，层次）
 - 1004 Counting Leaves (30)
 - 1020 Tree Traversals (25)
+- 1053 Path of Equal Weight (30)
 
 ### 二叉搜素树
 - 1043 Is It a Binary Search Tree (25)
@@ -43,6 +44,7 @@
 - 1039 Course List for Student (25)
 - 1047 Student List for Course (25)
 - 1149 Dangerous Goods Packaging (25)
+- 1055 The World's Richest (25)
 
 ## 排序题
 - 1012 The Best Rank (25)
@@ -86,3 +88,4 @@
 - 1042 Shuffling Machine (20)
 - 1046 Shortest Distance (20)
 - 1048 Find Coins (25)
+- 1054 The Dominant Color (20)
