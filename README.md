@@ -89,3 +89,5 @@
 - 1046 Shortest Distance (20)
 - 1048 Find Coins (25)
 - 1054 The Dominant Color (20)
+- 1058 A+B in Hogwarts (20)
+- 1059 Prime Factors (25)
