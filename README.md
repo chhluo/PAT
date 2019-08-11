@@ -38,6 +38,7 @@
 
 ## 动态规划
 - 1007 Maximum Subsequence Sum (25)
+- 1049 Counting Ones (30)
 
 ## 查找
 - 1022 Digital Library (30) * //auto it 可以代替 map <string, int>::iterator it
@@ -61,6 +62,9 @@
 
 ## 双指针
 - 1044 Shopping in Mars (25)
+
+## 递归
+1056 Mice and Rice (25)
 
 ## 需要用到数组来统计元素次数的
 - 1048 Find Coins (25)
