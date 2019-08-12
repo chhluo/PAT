@@ -23,6 +23,11 @@
 
 ### 二叉搜素树
 - 1043 Is It a Binary Search Tree (25)
+- 1064 Complete Binary Search Tree (30)
+
+### 平衡二叉树
+- 1066 Root of AVL Tree (25) * 插入与左右旋
+- 平衡二叉树的删除
 
 ### 并查集
 - 1107 Social Clusters (30)
@@ -72,6 +77,9 @@
 - 1048 Find Coins (25)
 - 1050 String Subtraction (20)
 
+## 整数运算溢出
+1065 A+B and C (64bit) (20)
+
 ## 其他
 - 1001 A+B Format (20)
 - 1002 A+B for Polynomials (25)
@@ -97,4 +105,5 @@
 - 1054 The Dominant Color (20)
 - 1058 A+B in Hogwarts (20)
 - 1059 Prime Factors (25)
+- 1060 Are They Equal (25)
 - 1061 Dating (20)
