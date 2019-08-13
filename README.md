@@ -15,6 +15,8 @@
 ### 深度优先搜索
 - 1018 Public Bike Management (30)
 - 1034 Head of a Gang (30)
+- 1068 Find More Coins (30) //理解状态
+
 
 ## 树（遍历：前、中、后序，层次）
 - 1004 Counting Leaves (30)
@@ -107,4 +109,5 @@
 - 1059 Prime Factors (25)
 - 1060 Are They Equal (25)
 - 1061 Dating (20)
+- 1067 Sort with Swap(0, i) (25)
 - 1069 The Black Hole of Numbers (20)
