@@ -107,3 +107,4 @@
 - 1059 Prime Factors (25)
 - 1060 Are They Equal (25)
 - 1061 Dating (20)
+- 1069 The Black Hole of Numbers (20)
