@@ -111,3 +111,4 @@
 - 1061 Dating (20)
 - 1067 Sort with Swap(0, i) (25)
 - 1069 The Black Hole of Numbers (20)
+- 1071 Speech Patterns (25)
