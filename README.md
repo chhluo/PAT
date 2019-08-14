@@ -13,6 +13,9 @@
 - 1003 Emergency (25)
 - 1072 Gas Station (30)
 
+### 广度优先搜索
+- 1076 Forwards on Weibo (30)
+
 ### 深度优先搜索
 - 1018 Public Bike Management (30)
 - 1034 Head of a Gang (30)
@@ -62,10 +65,12 @@
 - 1028 List Sorting (25)
 - 1036 Boys vs Girls (25)
 - 1062 Talent and Virtue (25)
+- 1075 PAT Judge (25)
 
 ## 链表题
 - 1032 Sharing (25)
 - 1052 Linked List Sorting (25)
+- 1074 Reversing Linked List (25)
 
 ## 栈
 - 1051 Pop Sequence (25)
@@ -113,3 +118,4 @@
 - 1067 Sort with Swap(0, i) (25)
 - 1069 The Black Hole of Numbers (20)
 - 1071 Speech Patterns (25)
+- 1073 Scientific Notation (20)
