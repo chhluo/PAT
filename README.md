@@ -11,6 +11,7 @@
 
 ### 最短路径(Dijkstra及其常规变型)
 - 1003 Emergency (25)
+- 1072 Gas Station (30)
 
 ### 深度优先搜索
 - 1018 Public Bike Management (30)
