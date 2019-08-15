@@ -26,6 +26,7 @@
 - 1004 Counting Leaves (30)
 - 1020 Tree Traversals (25)
 - 1053 Path of Equal Weight (30)
+- 1079 Total Sales of Supply Chain (25)
 
 ### 二叉搜素树
 - 1043 Is It a Binary Search Tree (25)
@@ -46,12 +47,14 @@
 ## 模拟题
 - 1014 Waiting in Line (30)
 - 1017 Queueing at Bank (25)
+- 1080 Graduate Admission (30)
 
 ## 动态规划
 - 1007 Maximum Subsequence Sum (25)
 - 1049 Counting Ones (30)
 
 ## 哈希表
+- 1078 Hashing (25)
 
 ## 查找
 - 1022 Digital Library (30) * //auto it 可以代替 map <string, int>::iterator it
@@ -122,3 +125,4 @@
 - 1071 Speech Patterns (25)
 - 1073 Scientific Notation (20)
 - 1077 Kuchiguse (20)
+- 1081 Rational Sum (20)
