@@ -51,6 +51,8 @@
 - 1007 Maximum Subsequence Sum (25)
 - 1049 Counting Ones (30)
 
+## 哈希表
+
 ## 查找
 - 1022 Digital Library (30) * //auto it 可以代替 map <string, int>::iterator it
 - 1039 Course List for Student (25)
@@ -79,14 +81,14 @@
 - 1044 Shopping in Mars (25)
 
 ## 递归
-1056 Mice and Rice (25)
+- 1056 Mice and Rice (25)
 
 ## 需要用到数组来统计元素次数的
 - 1048 Find Coins (25)
 - 1050 String Subtraction (20)
 
 ## 整数运算溢出
-1065 A+B and C (64bit) (20)
+- 1065 A+B and C (64bit) (20)
 
 ## 其他
 - 1001 A+B Format (20)
