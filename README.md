@@ -119,3 +119,4 @@
 - 1069 The Black Hole of Numbers (20)
 - 1071 Speech Patterns (25)
 - 1073 Scientific Notation (20)
+- 1077 Kuchiguse (20)
