@@ -27,6 +27,7 @@
 - 1020 Tree Traversals (25)
 - 1053 Path of Equal Weight (30)
 - 1079 Total Sales of Supply Chain (25)
+- 1086 Tree Traversals Again (25)
 
 ### 二叉搜素树
 - 1043 Is It a Binary Search Tree (25)
@@ -71,6 +72,8 @@
 - 1036 Boys vs Girls (25)
 - 1062 Talent and Virtue (25)
 - 1075 PAT Judge (25)
+- 1083 List Grades (25)
+
 
 ## 链表题
 - 1032 Sharing (25)
@@ -82,6 +85,9 @@
 
 ## 双指针
 - 1044 Shopping in Mars (25)
+
+## 二分查找
+1085 Perfect Sequence (25)
 
 ## 递归
 - 1056 Mice and Rice (25)
@@ -126,3 +132,4 @@
 - 1073 Scientific Notation (20)
 - 1077 Kuchiguse (20)
 - 1081 Rational Sum (20)
+- 1084 Broken Keyboard (20)
