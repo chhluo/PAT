@@ -15,12 +15,13 @@
 
 ### 广度优先搜索
 - 1076 Forwards on Weibo (30)
+- 1091 Acute Stroke (30) //dfs会爆栈
 
 ### 深度优先搜索
 - 1018 Public Bike Management (30)
 - 1034 Head of a Gang (30)
 - 1068 Find More Coins (30) //理解状态
-
+- 1087 All Roads Lead to Rome (30)
 
 ## 树（遍历：前、中、后序，层次）
 - 1004 Counting Leaves (30)
@@ -28,6 +29,9 @@
 - 1053 Path of Equal Weight (30)
 - 1079 Total Sales of Supply Chain (25)
 - 1086 Tree Traversals Again (25)
+- 1090 Highest Price in Supply Chain (25)
+- 1094 The Largest Generation (25)
+
 
 ### 二叉搜素树
 - 1043 Is It a Binary Search Tree (25)
@@ -65,7 +69,10 @@
 - 1055 The World's Richest (25)
 - 1063 Set Similarity (25)
 
-## 排序题
+## 排序原理题
+- 1089 Insert or Merge (25)
+
+## 应用排序题
 - 1012 The Best Rank (25)
 - 1025 PAT Ranking (25)
 - 1028 List Sorting (25)
@@ -133,3 +140,6 @@
 - 1077 Kuchiguse (20)
 - 1081 Rational Sum (20)
 - 1084 Broken Keyboard (20)
+- 1088 Rational Arithmetic (20)
+- 1092 To Buy or Not to Buy (20)
+- 1093 Count PAT's (25)
