@@ -36,6 +36,7 @@
 ### 二叉搜素树
 - 1043 Is It a Binary Search Tree (25)
 - 1064 Complete Binary Search Tree (30)
+- 1099 Build A Binary Search Tree (30)
 
 ### 平衡二叉树
 - 1066 Root of AVL Tree (25) * 插入与左右旋
@@ -73,6 +74,7 @@
 
 ## 排序原理题
 - 1089 Insert or Merge (25)
+- 1098 Insertion or Heap Sort (25)
 
 ## 应用排序题
 - 1012 The Best Rank (25)
@@ -88,6 +90,7 @@
 - 1032 Sharing (25)
 - 1052 Linked List Sorting (25)
 - 1074 Reversing Linked List (25)
+- 1097 Deduplication on a Linked List (25)
 
 ## 栈
 - 1051 Pop Sequence (25)
@@ -145,3 +148,5 @@
 - 1088 Rational Arithmetic (20)
 - 1092 To Buy or Not to Buy (20)
 - 1093 Count PAT's (25)
+- 1096 Consecutive Factors (20) *
+- 1100 Mars Numbers (20)
