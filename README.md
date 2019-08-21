@@ -155,3 +155,4 @@
 - 1100 Mars Numbers (20)
 - 1101 Quick Sort (25)
 - 1104 Sum of Number Segments (20)
+- 1108 Finding Average (20)
