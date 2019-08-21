@@ -31,6 +31,8 @@
 - 1086 Tree Traversals Again (25)
 - 1090 Highest Price in Supply Chain (25)
 - 1094 The Largest Generation (25)
+- 1102 Invert a Binary Tree (25)
+- 1106 Lowest Price in Supply Chain (25)
 
 
 ### 二叉搜素树
@@ -99,10 +101,11 @@
 - 1044 Shopping in Mars (25)
 
 ## 二分查找
-1085 Perfect Sequence (25)
+- 1085 Perfect Sequence (25)
 
 ## 递归
 - 1056 Mice and Rice (25)
+- 1105 Spiral Matrix (25)
 
 ## 需要用到数组来统计元素次数的
 - 1048 Find Coins (25)
@@ -150,3 +153,5 @@
 - 1093 Count PAT's (25)
 - 1096 Consecutive Factors (20) *
 - 1100 Mars Numbers (20)
+- 1101 Quick Sort (25)
+- 1104 Sum of Number Segments (20)
