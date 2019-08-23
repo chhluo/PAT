@@ -43,6 +43,7 @@
 - 1043 Is It a Binary Search Tree (25)
 - 1064 Complete Binary Search Tree (30)
 - 1099 Build A Binary Search Tree (30)
+- 1115 Counting Nodes in a BST (30)
 
 ### 平衡二叉树
 - 1066 Root of AVL Tree (25) * 插入与左右旋
@@ -51,6 +52,7 @@
 ### 并查集
 - 1107 Social Clusters (30)
 - 1118 Birds in Forest (25)
+- 1114 Family Property (25)
 
 ## 贪心
 - 1070 Mooncake (25)
@@ -160,3 +162,5 @@
 - 1101 Quick Sort (25)
 - 1104 Sum of Number Segments (20)
 - 1108 Finding Average (20)
+- 1112 Stucked Keyboard (20)
+- 1113 Integer Set Partition (25) //408真题
