@@ -35,6 +35,7 @@
 - 1094 The Largest Generation (25)
 - 1102 Invert a Binary Tree (25)
 - 1106 Lowest Price in Supply Chain (25)
+- 1119 Pre- and Post-order Traversals (30)
 
 ### 完全二叉树
 - 1110 Complete Binary Tree (25)
