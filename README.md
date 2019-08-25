@@ -181,3 +181,4 @@
 - 1120 Friend Numbers (20)
 - 1121 Damn Single (25)
 - 1124 Raffle for Weibo Followers (20)
+- 1128 N Queens Puzzle (20)
