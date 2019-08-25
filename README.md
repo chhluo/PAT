@@ -5,6 +5,11 @@
 2.对题目做个分类，方便进行针对性练习。
 
 ## 图
+
+### 图概念题
+- 1122 Hamiltonian Cycle (25) 哈密顿图
+- 1126 Eulerian Path (25) 欧拉图
+
 ### 连通分量
 - 1013 Battle Over Cities (25)
 - 1021 Deepest Root (25)
@@ -25,7 +30,9 @@
 - 1068 Find More Coins (30) //理解状态
 - 1087 All Roads Lead to Rome (30)
 
-## 树（遍历：前、中、后序，层次）
+## 树
+
+### 遍历：前、中、后序，层次，建树
 - 1004 Counting Leaves (30)
 - 1020 Tree Traversals (25)
 - 1053 Path of Equal Weight (30)
@@ -36,9 +43,10 @@
 - 1102 Invert a Binary Tree (25)
 - 1106 Lowest Price in Supply Chain (25)
 - 1119 Pre- and Post-order Traversals (30)
+- 1127 ZigZagging on a Tree (30)
 
 ### 完全二叉树
-- 1110 Complete Binary Tree (25)
+- 1110 Complete Binary Tree (25) 完全二叉树的判断
 
 ### 二叉搜素树
 - 1043 Is It a Binary Search Tree (25)
@@ -48,12 +56,16 @@
 
 ### 平衡二叉树
 - 1066 Root of AVL Tree (25) * 插入与左右旋
+- 1123 Is It a Complete AVL Tree (30)  插入、完全二叉树的判断
 - 平衡二叉树的删除
 
 ### 并查集
 - 1107 Social Clusters (30)
 - 1118 Birds in Forest (25)
 - 1114 Family Property (25)
+
+### 哈夫曼树、最佳归并
+- 1125 Chain the Ropes (25)
 
 ## 贪心
 - 1070 Mooncake (25)
@@ -167,3 +179,5 @@
 - 1113 Integer Set Partition (25) //408真题
 - 1116 Come on! Let's C (20)
 - 1120 Friend Numbers (20)
+- 1121 Damn Single (25)
+- 1124 Raffle for Weibo Followers (20)
