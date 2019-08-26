@@ -46,6 +46,7 @@
 - 1119 Pre- and Post-order Traversals (30)
 - 1127 ZigZagging on a Tree (30)
 - 1130 Infix Expression (25)
+- 1135 Is It A Red-Black Tree (30)
 
 ### 完全二叉树
 - 1110 Complete Binary Tree (25) 完全二叉树的判断
@@ -187,3 +188,4 @@
 - 1124 Raffle for Weibo Followers (20)
 - 1128 N Queens Puzzle (20)
 - 1132 Cut Integer (20)
+- 1136 A Delayed Palindrome (20) 字符串加法（高精度整数）
