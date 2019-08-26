@@ -9,6 +9,7 @@
 ### 图概念题
 - 1122 Hamiltonian Cycle (25) 哈密顿图
 - 1126 Eulerian Path (25) 欧拉图
+- 1134 Vertex Cover (25) 点覆盖
 
 ### 连通分量
 - 1013 Battle Over Cities (25)
@@ -44,6 +45,7 @@
 - 1106 Lowest Price in Supply Chain (25)
 - 1119 Pre- and Post-order Traversals (30)
 - 1127 ZigZagging on a Tree (30)
+- 1130 Infix Expression (25)
 
 ### 完全二叉树
 - 1110 Complete Binary Tree (25) 完全二叉树的判断
@@ -92,6 +94,7 @@
 - 1149 Dangerous Goods Packaging (25)
 - 1055 The World's Richest (25)
 - 1063 Set Similarity (25)
+- 1129 Recommendation System (25)
 
 ## 排序原理题
 - 1089 Insert or Merge (25)
@@ -107,11 +110,12 @@
 - 1083 List Grades (25)
 
 
-## 链表题
+## 链表题 （有结点不在链表上，为了卡不用链表的）
 - 1032 Sharing (25)
 - 1052 Linked List Sorting (25)
 - 1074 Reversing Linked List (25)
 - 1097 Deduplication on a Linked List (25)
+- 1133 Splitting A Linked List (25)
 
 ## 栈
 - 1051 Pop Sequence (25)
@@ -182,3 +186,4 @@
 - 1121 Damn Single (25)
 - 1124 Raffle for Weibo Followers (20)
 - 1128 N Queens Puzzle (20)
+- 1132 Cut Integer (20)
