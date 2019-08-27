@@ -47,6 +47,7 @@
 - 1127 ZigZagging on a Tree (30)
 - 1130 Infix Expression (25)
 - 1135 Is It A Red-Black Tree (30)
+- 1138 Postorder Traversal (25)
 
 ### 完全二叉树
 - 1110 Complete Binary Tree (25) 完全二叉树的判断
@@ -109,6 +110,8 @@
 - 1062 Talent and Virtue (25)
 - 1075 PAT Judge (25)
 - 1083 List Grades (25)
+- 1137 Final Grading (25)
+- 1141 PAT Ranking of Institutions (25)
 
 
 ## 链表题 （有结点不在链表上，为了卡不用链表的）
@@ -189,3 +192,4 @@
 - 1128 N Queens Puzzle (20)
 - 1132 Cut Integer (20)
 - 1136 A Delayed Palindrome (20) 字符串加法（高精度整数）
+- 1140 Look-and-say Sequence (20)
