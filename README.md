@@ -10,6 +10,7 @@
 - 1122 Hamiltonian Cycle (25) 哈密顿图
 - 1126 Eulerian Path (25) 欧拉图
 - 1134 Vertex Cover (25) 点覆盖
+- 1142 Maximal Clique (25)
 
 ### 连通分量
 - 1013 Battle Over Cities (25)
@@ -67,6 +68,10 @@
 - 1107 Social Clusters (30)
 - 1118 Birds in Forest (25)
 - 1114 Family Property (25)
+
+### 最小公共祖先
+- 1143 Lowest Common Ancestor (30)
+- 1151 LCA in a Binary Tree (30)
 
 ### 哈夫曼树、最佳归并
 - 1125 Chain the Ropes (25)
