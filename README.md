@@ -12,6 +12,12 @@
 - 1134 Vertex Cover (25) 点覆盖
 - 1142 Maximal Clique (25)
 
+### 拓扑排序
+1146 Topological Order (25)
+
+### 关键路径
+
+
 ### 连通分量
 - 1013 Battle Over Cities (25)
 - 1021 Deepest Root (25)
@@ -49,6 +55,7 @@
 - 1130 Infix Expression (25)
 - 1135 Is It A Red-Black Tree (30)
 - 1138 Postorder Traversal (25)
+- 1147 Heaps (30)
 
 ### 完全二叉树
 - 1110 Complete Binary Tree (25) 完全二叉树的判断
@@ -93,7 +100,7 @@
 
 ## 哈希表
 - 1078 Hashing (25)
-- 1145 Hashing - Average Search Time (25) 平方探测，只有正数项，\$ 1^2,2^2,...(m-1)^2 \$
+- 1145 Hashing - Average Search Time (25) 平方探测，只有正数项，1^2,2^2,...(m-1)^2,最后一项是m-1,不是包含正负项时的m/2
 
 ## 查找
 - 1022 Digital Library (30) * //auto it 可以代替 map <string, int>::iterator it
