@@ -93,6 +93,7 @@
 
 ## 哈希表
 - 1078 Hashing (25)
+- 1145 Hashing - Average Search Time (25) //平方探测，只有正数项，$1^2,2^2,...(m-1)^2$
 
 ## 查找
 - 1022 Digital Library (30) * //auto it 可以代替 map <string, int>::iterator it
