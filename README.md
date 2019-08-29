@@ -11,6 +11,8 @@
 - 1126 Eulerian Path (25) 欧拉图
 - 1134 Vertex Cover (25) 点覆盖
 - 1142 Maximal Clique (25)
+- 1150 Travelling Salesman Problem (25)
+- 1154 Vertex Coloring (25)
 
 ### 拓扑排序
 1146 Topological Order (25)
@@ -55,7 +57,10 @@
 - 1130 Infix Expression (25)
 - 1135 Is It A Red-Black Tree (30)
 - 1138 Postorder Traversal (25)
+
+### 堆
 - 1147 Heaps (30)
+- 1155 Heap Paths (30)
 
 ### 完全二叉树
 - 1110 Complete Binary Tree (25) 完全二叉树的判断
@@ -125,6 +130,7 @@
 - 1083 List Grades (25)
 - 1137 Final Grading (25)
 - 1141 PAT Ranking of Institutions (25)
+- 1153 Decode Registration Card of PAT (25)
 
 
 ## 链表题 （有结点不在链表上，为了卡不用链表的）
@@ -207,3 +213,4 @@
 - 1136 A Delayed Palindrome (20) 字符串加法（高精度整数）
 - 1140 Look-and-say Sequence (20)
 - 1144 The Missing Number (20)
+- 1152 Google Recruitment (20)
