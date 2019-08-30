@@ -202,9 +202,11 @@
 - 1101 Quick Sort (25)
 - 1104 Sum of Number Segments (20)
 - 1108 Finding Average (20)
+- 1109 Group Photo (25)
 - 1112 Stucked Keyboard (20)
 - 1113 Integer Set Partition (25) //408真题
 - 1116 Come on! Let's C (20)
+- 1117 Eddington Number (25)
 - 1120 Friend Numbers (20)
 - 1121 Damn Single (25)
 - 1124 Raffle for Weibo Followers (20)
