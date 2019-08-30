@@ -213,4 +213,5 @@
 - 1136 A Delayed Palindrome (20) 字符串加法（高精度整数）
 - 1140 Look-and-say Sequence (20)
 - 1144 The Missing Number (20)
+- 1148 Werewolf - Simple Version (20)
 - 1152 Google Recruitment (20)
