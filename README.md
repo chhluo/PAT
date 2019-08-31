@@ -36,6 +36,7 @@
 
 ### 深度优先搜索
 - 1018 Public Bike Management (30)
+- 1030 Travel Plan (30)
 - 1034 Head of a Gang (30)
 - 1068 Find More Coins (30) //理解状态
 - 1087 All Roads Lead to Rome (30)
