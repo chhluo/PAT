@@ -39,6 +39,7 @@
 - 1034 Head of a Gang (30)
 - 1068 Find More Coins (30) //理解状态
 - 1087 All Roads Lead to Rome (30)
+- 1103 Integer Factorization (30) //1.将一些在搜索中被重复计算的值，提前算好存在数组中；2.剪枝最关键。
 
 ## 树
 
