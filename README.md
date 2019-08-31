@@ -113,6 +113,7 @@
 - 1047 Student List for Course (25)
 - 1149 Dangerous Goods Packaging (25)
 - 1055 The World's Richest (25)
+- 1057 Stack (30)
 - 1063 Set Similarity (25)
 - 1129 Recommendation System (25)
 
