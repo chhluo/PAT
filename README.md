@@ -101,6 +101,7 @@
 - 1014 Waiting in Line (30)
 - 1016 Phone Bills (25)
 - 1017 Queueing at Bank (25)
+- 1026 Table Tennis (30)
 - 1080 Graduate Admission (30)
 - 1095 Cars on Campus (30)
 
