@@ -180,6 +180,7 @@
 - 1023 Have Fun with Numbers (20)
 - 1024 Palindromic Number (25)
 - 1027 Colors in Mars (20)
+- 1029 Median (25)
 - 1031 Hello World for U (20)
 - 1035 Password (20)
 - 1037 Magic Coupon (25)
