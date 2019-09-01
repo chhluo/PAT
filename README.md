@@ -131,6 +131,7 @@
 - 1025 PAT Ranking (25)
 - 1028 List Sorting (25)
 - 1036 Boys vs Girls (25)
+- 1038 Recover the Smallest Number (30)
 - 1062 Talent and Virtue (25)
 - 1075 PAT Judge (25)
 - 1083 List Grades (25)
