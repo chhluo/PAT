@@ -202,6 +202,7 @@
 - 1073 Scientific Notation (20)
 - 1077 Kuchiguse (20)
 - 1081 Rational Sum (20)
+- 1082 Read Number in Chinese (25)
 - 1084 Broken Keyboard (20)
 - 1088 Rational Arithmetic (20)
 - 1092 To Buy or Not to Buy (20)
