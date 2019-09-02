@@ -62,7 +62,7 @@
 - 1130 Infix Expression (25)
 - 1135 Is It A Red-Black Tree (30)
 - 1138 Postorder Traversal (25)
-- 1159 Structure of a Binary Tree (30)
+- 1159 Structure of a Binary Tree (30) //对于 &&、|| 的使用注意优先级，该加括号的加括号，不要吝啬。
 
 ### 堆
 - 1147 Heaps (30)
@@ -172,7 +172,7 @@
 ## 整数运算溢出
 - 1065 A+B and C (64bit) (20)
 
-## 其他
+## 其他  //这一类题，题目读清楚，不要慌。
 - 1001 A+B Format (20)
 - 1002 A+B for Polynomials (25)
 - 1005 Spell It Right (20)
