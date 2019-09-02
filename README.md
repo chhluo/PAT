@@ -34,7 +34,7 @@
 - 1076 Forwards on Weibo (30)
 - 1091 Acute Stroke (30) //dfs会爆栈
 
-### 深度优先搜索
+### 深度优先搜索 //对于在图的问题上应用dfs已经比较熟练，对于其他一些非图类问题做起来还是有点困难。
 - 1018 Public Bike Management (30)
 - 1030 Travel Plan (30)
 - 1034 Head of a Gang (30)
