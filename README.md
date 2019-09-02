@@ -34,7 +34,8 @@
 - 1076 Forwards on Weibo (30)
 - 1091 Acute Stroke (30) //dfs会爆栈
 
-### 深度优先搜索 //对于在图的问题上应用dfs已经比较熟练，对于其他一些非图类问题做起来还是有点困难。
+### 深度优先搜索
+* 对于在图的问题上应用dfs已经比较熟练，对于其他一些非图类问题做起来还是有点困难。
 - 1018 Public Bike Management (30)
 - 1030 Travel Plan (30)
 - 1034 Head of a Gang (30)
@@ -62,14 +63,14 @@
 - 1130 Infix Expression (25)
 - 1135 Is It A Red-Black Tree (30)
 - 1138 Postorder Traversal (25)
-- 1159 Structure of a Binary Tree (30) //对于 &&、|| 的使用注意优先级，该加括号的加括号，不要吝啬。
+- 1159 Structure of a Binary Tree (30) //对于 &&、|| 的使用注意优先级，该加括号的加括号，不要吝啬。熟悉string,sscanf的使用
 
 ### 堆
 - 1147 Heaps (30)
 - 1155 Heap Paths (30)
 
 ### 完全二叉树
-- 1110 Complete Binary Tree (25) 完全二叉树的判断
+- 1110 Complete Binary Tree (25) //完全二叉树的判断，层次遍历将空指针也放入，如果是完全二叉树，那么空指针后面不会有非空指针。
 
 ### 二叉搜素树
 - 1043 Is It a Binary Search Tree (25)
