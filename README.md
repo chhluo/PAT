@@ -27,7 +27,7 @@
 ### 最短路径(Dijkstra及其常规变型)
 - 1003 Emergency (25)
 - 1072 Gas Station (30)
-- 1111 Online Map (30)
+- 1111 Online Map (30) //能用Dijkstra的就用，因为dfs可能会超时，Dijkstra的时间复杂度中的常数因子比较小。
 
 
 ### 广度优先搜索
