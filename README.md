@@ -26,9 +26,10 @@
 - 1021 Deepest Root (25)
 
 ### 最短路径(Dijkstra及其常规变型)
+*能用Dijkstra的就用，因为dfs可能会超时，Dijkstra的时间复杂度中的常数因子比较小。*
 - 1003 Emergency (25)
 - 1072 Gas Station (30)
-- 1111 Online Map (30) //能用Dijkstra的就用，因为dfs可能会超时，Dijkstra的时间复杂度中的常数因子比较小。
+- 1111 Online Map (30)
 
 
 ### 广度优先搜索
@@ -36,7 +37,7 @@
 - 1091 Acute Stroke (30) //dfs会爆栈
 
 ### 深度优先搜索
-* 对于在图的问题上应用dfs已经比较熟练，对于其他一些非图类问题做起来还是有点困难。
+*对于在图的问题上应用dfs已经比较熟练，对于其他一些非图类问题做起来还是有点困难。*
 - 1018 Public Bike Management (30)
 - 1030 Travel Plan (30)
 - 1034 Head of a Gang (30)
@@ -98,8 +99,8 @@
 - 1125 Chain the Ropes (25)
 
 ## 贪心
-- 1070 Mooncake (25)
 - 1033 To Fill or Not to Fill (25) *
+- 1070 Mooncake (25)
 
 ## 模拟题
 - 1014 Waiting in Line (30)
@@ -174,7 +175,8 @@
 ## 整数运算溢出
 - 1065 A+B and C (64bit) (20)
 
-## 其他  //这一类题，题目读清楚，不要慌。
+## 其他  
+*这一类题，题目读清楚，不要慌。*
 - 1001 A+B Format (20)
 - 1002 A+B for Polynomials (25)
 - 1005 Spell It Right (20)
