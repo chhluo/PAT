@@ -33,7 +33,7 @@
 - 1111 Online Map (30)
 
 ### 多源最短路径 Floyed
-- 7-8 哈利·波特的考试 (25) //数组初始化用 memset、fill，```int G[MAXN][MAXN]{INF}```这种初始化方法是错误的，只有一个元素赋值为INF
+- 7-8 哈利·波特的考试 (25) //数组初始化用 memset、fill，```int G[MAXN][MAXN] = {INF}```这种初始化方法是错误的，只有一个元素赋值为INF
 
 ### 广度优先搜索
 - 1076 Forwards on Weibo (30)
