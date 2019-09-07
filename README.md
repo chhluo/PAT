@@ -123,6 +123,7 @@
 - 1145 Hashing - Average Search Time (25) 平方探测，只有正数项，1^2,2^2,...(m-1)^2,最后一项是m-1,不是包含正负项时的m/2
 
 ## 查找
+*如果不要求有序，可以采用unordered_map,它是用哈希表来实现的，用法和map相同，但时间复杂度几乎为O（1）*
 - 1022 Digital Library (30) * //auto it 可以代替 map <string, int>::iterator it
 - 1039 Course List for Student (25)
 - 1047 Student List for Course (25)
